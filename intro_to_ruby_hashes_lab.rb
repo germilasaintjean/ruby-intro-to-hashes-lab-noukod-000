@@ -6,10 +6,10 @@ end
 
 
 def actor
-actor = [
+hash = {
 		       :name => "Dwayne The Rock Johnson"
-				 ]
-return actor
+				 }
+return hash
 end
 
 def monopoly
