@@ -13,8 +13,8 @@ return hash
 end
 
 def monopoly
-	monopoly =  {}
-	monopoly[:railroads]={}
+	monopoly = {}
+	monopoly[:railroads][:key_value]={}
 
 end
 
