@@ -13,7 +13,7 @@ return hash
 end
 
 def monopoly
-	
+
 	monopoly= {:railroads]=> {}
 	 }
 
