@@ -14,7 +14,7 @@ end
 
 def monopoly
 	monopoly = {}
-	monopoly[:railroads][:key_value]={}
+	monopoly[:railroads]={}
 
 end
 
