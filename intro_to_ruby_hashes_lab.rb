@@ -3,7 +3,7 @@ def new_hash
 	return hash
 
 end
-expect(actor[:name]).to eq("Dwayne The Rock Johnson")
+
 
 def actor
 hash = { :name = "Dwayne The Rock Johnson"}
