@@ -13,12 +13,12 @@ return hash
 end
 
 def monopoly
-	monopoly =  { 
+	monopoly =  {
 		:railroads => {}
 		:names => {}
 		:shortline => {}
 	}
-  
+
 end
 
 def monopoly_with_second_tier
