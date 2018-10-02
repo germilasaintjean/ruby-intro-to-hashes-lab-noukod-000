@@ -6,9 +6,9 @@ end
 
 
 def actor
-actor = {
-		         :name => "Dwayne The Rock Johnson"
-					 }
+actor = [
+		       :name => "Dwayne The Rock Johnson"
+				 ]
 return hash
 end
 
