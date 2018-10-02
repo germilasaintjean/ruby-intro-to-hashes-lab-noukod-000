@@ -16,7 +16,6 @@ def monopoly
 	monopoly =  {
 		:railroads => {}
 		:names => {}
-		:shortline => {}
 	}
 
 end
